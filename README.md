@@ -1,14 +1,22 @@
-<!--
-**MattHall00/MattHall00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Matt Hall!
 
-Here are some ideas to get you started:
+I'm a solo developer and creative technologist.
+I build SaaS tools, creative experiments, and AI-powered apps — all from the intersection of code, creativity, and curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- **Offbook** — a line memorization app for actors, with cue prompts & voice recognition.
+- **ChatPilot** — a self-hosted ChatGPT-like app for private, mobile-friendly AI conversations.
+- **Spirit Guide AI** — an AI-powered astrological guide exploring cosmic insights.
+- **Slightly Better, Co.** — my new venture for bootstrapped SaaS tools that aim to make life *slightly better*.
+
+### 💡 What I Tinker With
+- Dev containers, Docker, and self-hosted stacks.
+- Raspberry Pi projects + creative hardware hacks.
+- Experimental apps blending art, storytelling, and technology.
+
+### 🛠️ Tools & Tech I Love
+TypeScript · React · Next.js · Laravel · Docker · PostgreSQL · Astro · AI/ML APIs
+
+### 🌎 Let's Connect
+- 🌐 [Website](https://matthall00.github.io)
+- 🛠️ [GitHub Projects](https://github.com/matthall00?tab=repositories)
