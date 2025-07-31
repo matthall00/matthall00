@@ -4,9 +4,7 @@ I'm a solo developer and creative technologist.
 I build SaaS tools, creative experiments, and AI-powered apps — all from the intersection of code, creativity, and curiosity.
 
 ### 🚀 What I'm Working On
-- **Offbook** — a line memorization app for actors, with cue prompts & voice recognition.
 - **ChatPilot** — a self-hosted ChatGPT-like app for private, mobile-friendly AI conversations.
-- **Spirit Guide AI** — an AI-powered astrological guide exploring cosmic insights.
 - **Slightly Better, Co.** — my new venture for bootstrapped SaaS tools that aim to make life *slightly better*.
 
 ### 💡 What I Tinker With
