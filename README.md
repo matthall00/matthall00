@@ -14,6 +14,6 @@ I build SaaS tools, creative experiments, and AI-powered apps — all from the i
 ### Tools & Tech I Love
 TypeScript · React · Next.js · Laravel · Docker · PostgreSQL · Astro · AI/ML APIs
 
-### 🌎 Let's Connect
+### Let's Connect
 - 🌐 [Website](https://matthall00.github.io)
 - 🛠️ [GitHub Projects](https://github.com/matthall00?tab=repositories)
