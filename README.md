@@ -15,5 +15,5 @@ I build SaaS tools, creative experiments, and AI-powered apps — all from the i
 TypeScript · React · Next.js · Laravel · Docker · PostgreSQL · Astro · AI/ML APIs
 
 ### Let's Connect
-- 🌐 [Website](https://matthall00.github.io)
+- 🌐 [Website](https://matthallwastaken.dev)
 - 🛠️ [GitHub Projects](https://github.com/matthall00?tab=repositories)
